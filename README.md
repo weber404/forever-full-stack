@@ -51,12 +51,12 @@
 
 This project aims to simplify complex web development workflows while ensuring high performance and flexibility. The core features include:
 
-- 🧩 **[Colorful Puzzle Piece] Modular Architecture:** Clear separation of frontend and backend components for scalable development.
-- ⚡ **[Bright Lightning] Modern Frontend Setup:** React with Vite, Tailwind CSS, PostCSS, and ESLint for fast, maintainable UI development.
-- 🔒 **[Secure Lock] Secure Authentication & Authorization:** JWT-based user and admin security middleware.
-- 💳 **[Credit Card] Integrated Payment Gateways:** Stripe, Razorpay, and COD options for seamless transactions.
-- 🚀 **[Rocket] Developer-Friendly Tools:** Hot Module Replacement, optimized build processes, and comprehensive component libraries.
-- 🛠️ **[Hammer and Wrench] Extensible Backend:** Express, MongoDB, Cloudinary, and RESTful APIs for robust data management.
+- 🧩 **Modular Architecture:** Clear separation of frontend and backend components for scalable development.
+- ⚡ **Modern Frontend Setup:** React with Vite, Tailwind CSS, PostCSS, and ESLint for fast, maintainable UI development.
+- 🔒 **Secure Authentication & Authorization:** JWT-based user and admin security middleware.
+- 💳 **Integrated Payment Gateways:** Stripe, Razorpay, and COD options for seamless transactions.
+- 🚀 **Developer-Friendly Tools:** Hot Module Replacement, optimized build processes, and comprehensive component libraries.
+- 🛠️ **Extensible Backend:** Express, MongoDB, Cloudinary, and RESTful APIs for robust data management.
 
 ## Getting Started
 
